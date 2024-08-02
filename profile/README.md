@@ -11,4 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-opencat 社区由 [mybatis-mapper](https://github.com/mybatis-mapper) 社区发展而来，
+# opencat 社区由 [mybatis-mapper](https://github.com/mybatis-mapper) 社区发展而来.
+
+[留言加入openCat社区](https://github.com/open-cat-now/sign-up/issues/new)
+
+
